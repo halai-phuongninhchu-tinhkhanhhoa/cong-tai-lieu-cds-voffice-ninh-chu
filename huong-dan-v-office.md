@@ -87,3 +87,19 @@ Cổng tài liệu sẽ tiếp tục cập nhật:
 - Các lỗi thường gặp và cách xử lý.
 
 > Tài liệu được cập nhật thường xuyên trong quá trình vận hành V-Office.
+---
+
+## 📥 TÀI LIỆU HƯỚNG DẪN V-OFFICE
+
+### 1. Phiếu trình
+- 📄 [Hướng dẫn Phiếu trình - Chuyên viên](HDSD_Phieutrinh_Chuyenvien.docx)
+
+### 2. Văn bản đến
+- 📄 [Hướng dẫn Văn bản đến - Chuyên viên](HDSD_Vanbanden_Website_Chuyenvien.docx)
+
+### 3. Văn bản đi
+- 📄 [Hướng dẫn Văn bản đi - Chuyên viên](HDSD_Vanbandi_Website_Chuyenvien.docx)
+
+---
+
+> 💡 Bấm vào tên tài liệu để xem hoặc tải file hướng dẫn về máy.
